@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+coverage/
+dist/
+
+# OS
+.DS_Store
+.env
+tweets.json
+
+# Debug
+npm-debug.log
+yarn-error.log
